@@ -1,3 +1,6 @@
+# Full credits to https://github.com/snovvcrash
+
+
 DInjector
 ==========
 
